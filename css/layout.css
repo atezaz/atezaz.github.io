@@ -201,14 +201,21 @@ ul#nav li.current a { color: #F06000; }
    color: #fff;
    margin-bottom: 12px;
 }
+
+.education_p
+{
+   margin: 0 0 8px 0;
+    font-size: 17px;
+}
+
 #about p {
-   line-height: 30px;
-   color: #7A7A7A;
+   line-height: 24px;
+   color: #c6c4c4;
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 200px;
+   height: 200px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
