@@ -209,7 +209,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #about p {
-   line-height: 24px;
+   line-height: 28px;
    color: #c6c4c4;
 }
 #about .profile-pic {
@@ -223,7 +223,7 @@ ul#nav li.current a { color: #F06000; }
    width: 58.33333%;
    padding-top: 6px;
 }
-#about .main-col { padding-right: 5%; }
+#about .main-col { padding-right: 0%; }
 #about .download .button {
    margin-top: 6px;
    background: #444;
